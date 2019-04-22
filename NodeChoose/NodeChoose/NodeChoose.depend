@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555155325 source:c:\users\administrator\desktop\nodechoose\main.cpp
+	<iostream>
+	<algorithm>
+
