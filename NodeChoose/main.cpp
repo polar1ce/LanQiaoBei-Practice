@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-#define MAX 200002	//最多允许结点数
+#define MAX 200002	//问题最多允许结点数
 
 using namespace std;
 
